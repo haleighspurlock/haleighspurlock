@@ -1,6 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haleigh Spurlock!
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/haleighspurlock?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/htmlhaleigh?style=social)
+
+A newly graduated 'baby dev' with a desire to build fun applications and game engines! I am fabulous at front-end, but I prefer to stay ballin' in the back-end.
+
+Hoping to help impact the tech community with creative content and collaborate on sick projects along the way!
+---
 
 <--
 **haleighspurlock/haleighspurlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
