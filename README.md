@@ -18,4 +18,3 @@ Hoping to build my online presence as 'The Peachy Programmer 🍑 ' so stay tune
                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haleighspurlock&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Haleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=haleighspurlock&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
