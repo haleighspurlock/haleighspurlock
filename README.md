@@ -14,7 +14,3 @@ Hoping to build my online presence as 'The Peachy Programmer 🍑 ' so stay tune
 
 ---
 
-## &#x1f4c8; My GitHub Stats
-                           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haleighspurlock&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
