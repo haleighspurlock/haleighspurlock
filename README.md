@@ -2,7 +2,7 @@
 
 ---
 
-A junior developer with a desire to build fun applications and game engines! I am fabulous at front-end, but I prefer to stay ballin' in the back-end. I want to help impact the tech community with creative content and collaborate on sick projects along the way!
+Developer with a desire to build fun applications and game engines! I want to help impact the tech community with creative content and collaborate on sick projects along the way!
 
 Hoping to build my online presence as 'The Peachy Programmer 🍑 ' so stay tuned!
 
